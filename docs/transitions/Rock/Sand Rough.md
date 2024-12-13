@@ -8,7 +8,7 @@ nav_order: 129
 
 # Rock to Sand Rough
 
-_Generated on 2024-12-13 11:26:31_
+_Generated on 2024-12-13 15:16:24_
 
 ## Top
 
@@ -58,13 +58,49 @@ _None_
 
 _None_
 
-## Bottom Right, Top Left, Bottom Left, Top Right
+## Bottom Right
 
 ### Tiles
 
 | Tile | ID (Hex) | Z | Chance |
 |:----:|:--------:|:--:|:------:|
-| ![0x0000](../../assets/tiles/0x0000.png) | 0 (0x0000) | 0 | 100% |
+| ![0x07BD](../../assets/tiles/0x07BD.png) | 1981 (0x07BD) | 0 | 100% |
+
+### Statics
+
+_None_
+
+## Top Left
+
+### Tiles
+
+| Tile | ID (Hex) | Z | Chance |
+|:----:|:--------:|:--:|:------:|
+| ![0x07BE](../../assets/tiles/0x07BE.png) | 1982 (0x07BE) | 0 | 100% |
+
+### Statics
+
+_None_
+
+## Bottom Left
+
+### Tiles
+
+| Tile | ID (Hex) | Z | Chance |
+|:----:|:--------:|:--:|:------:|
+| ![0x07BF](../../assets/tiles/0x07BF.png) | 1983 (0x07BF) | 0 | 100% |
+
+### Statics
+
+_None_
+
+## Top Right
+
+### Tiles
+
+| Tile | ID (Hex) | Z | Chance |
+|:----:|:--------:|:--:|:------:|
+| ![0x07C0](../../assets/tiles/0x07C0.png) | 1984 (0x07C0) | 0 | 100% |
 
 ### Statics
 
@@ -124,10 +160,10 @@ _None_
 
 | Tile | ID (Hex) | Z | Chance |
 |:----:|:--------:|:--:|:------:|
-| ![0x012A](../../assets/tiles/0x012A.png) | 298 (0x012A) | 0 | 25% |
-| ![0x012B](../../assets/tiles/0x012B.png) | 299 (0x012B) | 0 | 25% |
-| ![0x012C](../../assets/tiles/0x012C.png) | 300 (0x012C) | 0 | 25% |
-| ![0x012D](../../assets/tiles/0x012D.png) | 301 (0x012D) | 0 | 25% |
+| ![0x0016](../../assets/tiles/0x0016.png) | 22 (0x0016) | 0 | 25% |
+| ![0x0017](../../assets/tiles/0x0017.png) | 23 (0x0017) | 0 | 25% |
+| ![0x0018](../../assets/tiles/0x0018.png) | 24 (0x0018) | 0 | 25% |
+| ![0x0019](../../assets/tiles/0x0019.png) | 25 (0x0019) | 0 | 25% |
 
 ### Statics
 
