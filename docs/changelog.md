@@ -18,7 +18,7 @@ The first release focuses on improving and expanding transitions for foundationa
 
 ### Modified Transitions
 
-A total of 124 tranistions have been modified:
+A total of 124 transitions have been modified:
 
 - **Grass**: 21 updates
 - **Sand**: 7 updates
@@ -37,7 +37,7 @@ A total of 124 tranistions have been modified:
 
 ### Added Transitions
 
-A total of 1089 new tranistions have been added:
+A total of 1089 new transitions have been added:
 
 - **Grass**: 40
 - **Sand**: 45
@@ -67,3 +67,5 @@ A total of 1089 new tranistions have been added:
 ### Additional Changes
 - **XML Files**: All XML files have been formatted.
 - **Statics for Forest Yew**: Existing statics for the Forest Yew tile set have been added.
+- **Documentation**: Generated Documentation of all terrains, altitudes, transitions and random statics.
+- **Installer**: Installer executable.

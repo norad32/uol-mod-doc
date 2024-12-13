@@ -5,7 +5,7 @@ nav_order: 0
 description: "A mod for UO Landscaper: detailed transition and random statics generation tables for modern Ultima Online maps"
 ---
 
-# UO Landscaper Mo
+# UO Landscaper Mod
 
 A comprehensive upgrade for UO Landscaper, providing refined transition and random statics generation tables designed for modern Ultima Online maps.
 {: .fs-6 .fw-300 }
