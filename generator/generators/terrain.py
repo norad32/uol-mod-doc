@@ -158,7 +158,7 @@ _Generated on {timestamp}_
         text_color = "#000000" if luminance > 128 else "#FFFFFF"
 
         color_style = f"background-color:{rgb_hex}; color:{text_color};"
-        image_path = f"../assets/tiles/{tile_id_hex}.png"
+        image_path = f"assets/tiles/{tile_id_hex}.png"
         
         # Resolve Base field via altitude data if available
         base_key = terrain['Base']
